@@ -4,7 +4,7 @@
 Computação em nuvem é uma forma de usar programas, guardar arquivos e acessar serviços pela internet, sem precisar instalar nada no seu computador. 
 É como usar um programas que ficam em outro lugar (nos servidores das empresas), e você acessa tudo só com uma conexão à internet. Algo interessante sobre a computação em nuvem é que você paga apenas pelos recursos que usar, então você tem a escolha de aumentar ou reduzir os recursos de acordo com a necessidade.
 
-##Tipos de Computação em Nuvem
+## Tipos de Computação em Nuvem
 
 #### 🔹 Nuvem Pública
 Os serviços são oferecidos pela internet para qualquer pessoa ou empresa, como no Azure. Você não precisa instalar nem cuidar da estrutura, apenas usa.
@@ -15,7 +15,7 @@ Os serviços são oferecidos pela internet para qualquer pessoa ou empresa, como
 #### 🔀 Nuvem Híbrida
 Mistura os dois tipos: a empresa usa a nuvem pública para algumas coisas e a privada para outras, aproveitando o melhor dos dois mundos.
 
-##Benefícios da Computação em Nuvem
+## Benefícios da Computação em Nuvem
 
 - **Disponibilidade**: acesso de qualquer lugar e a qualquer hora.
 - **Escalabilidade**: é possível aumentar os recursos conforme a necessidade.
